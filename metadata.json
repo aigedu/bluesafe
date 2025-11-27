@@ -1,0 +1,8 @@
+{
+  "name": "BlueSafe",
+  "description": "Một ứng dụng web để theo dõi và cảnh báo về triều cường, cho phép người dùng đóng góp thông tin về tình hình ngập lụt tại địa phương.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
